@@ -50,3 +50,8 @@ No input.
 | http\_methods | The HTTP method (GET, POST, PUT, DELETE, HEAD, OPTIONS, ANY) |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+### Infrastructure model
+![Infrastructure main model](.infragenie/infrastructure_main_model.svg)
+
+---

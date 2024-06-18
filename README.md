@@ -50,3 +50,5 @@ No input.
 | http\_methods | The HTTP method (GET, POST, PUT, DELETE, HEAD, OPTIONS, ANY) |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+### Infrastructure model
+![matiaszilli_serverless-images-app](https://github.com/matiaszilli/serverless-images-app/assets/173192552/2cbb2b03-b309-4f64-bda7-a48d3a761c4a)
